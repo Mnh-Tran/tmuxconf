@@ -1,0 +1,5 @@
+# Ignore submodules
+plugins/*
+
+# Ignore log
+*.log
